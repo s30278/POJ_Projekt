@@ -1,0 +1,4 @@
+Drink: TEA | Size: S | Additions: [SUGAR] | Price: 5,10
+Drink: TEA | Size: L | Additions: [SUGAR, HONEY] | Price: 3,75
+Drink: TEA | Size: S | Additions: [SUGAR] | Price: 5,10
+Drink: TEA | Size: S | Additions: [HONEY] | Price: 5,40
